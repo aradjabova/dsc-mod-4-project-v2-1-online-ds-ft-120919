@@ -38,6 +38,9 @@ This is an unbalanced binary-class classification problem; because of this we wi
 <img  src="https://drive.google.com/uc?id=1jqChtIUCcGFLTPwoE2A2WG5oi520Lb3v">
 
 
+</details>  
+
+
 # Explore
 <details>
   <summary>Click to read about exploration of the data! </summary>
