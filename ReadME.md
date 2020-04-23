@@ -9,7 +9,7 @@ Using the OSEM process we will build a image classifier to predict if a patient 
 This is an unbalanced binary-class classification problem; because of this we will be creating addition augmented photos of the normal lungs.
 
 
-<img  src="https://drive.google.com/uc?id=1QyT6dlq-Ikn1JWKg13c-Ybobk7M4ZLva">
+  <img  src="https://drive.google.com/uc?id=1QyT6dlq-Ikn1JWKg13c-Ybobk7M4ZLva">
 
 
 
